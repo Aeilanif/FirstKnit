@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Aeilani Felix"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+
+I attended Lancaster & Palmdale High School.I graduated the year of 2023 and I feel like English was way better than math. My favorite subject was Anatomy though.  
 
      
 
@@ -27,14 +28,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+   I will be working off of my Ipad. I suppose that I can possibly be a 9/10 with knowing about technology. I have very good internet where I stay.
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   
+   I pefer to be called Lani , it is was easier than pronouncing my whole name.
  
 
 
@@ -45,7 +46,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+  My dream is to become a traveling nurse. I think I would find the nursing classes more interesting then others being that , that is what I'm more interested in. The goal I am reaching for would be to obtain my RN license!
  
 
 
@@ -54,9 +55,9 @@ What do you want to achieve in life?  What college subject do you think would be
 ## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
-### my answer     
+### my answer      
   
-   
+  No I haven't, but if I were to travel I would definitely like to go to Mexico, Italy , Greece , Dubai , Japan and many more. I plan on traveling the world when I graduate! I have never been in the military , but I have a lot of family member who have been.  
   
 
 
@@ -69,7 +70,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+  I did not know that, but now I do! I plan on passing this class with a A. If not an A then a B will be okay. Being that I want to become a nurse I have to do good because if I fail, it wont be so good. 
  
 
 
